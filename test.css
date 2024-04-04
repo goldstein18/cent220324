@@ -501,7 +501,7 @@ main {
 }
 main h1, span {
     /*color:#D9D9D9;*/
-    color:gray;
+   /* color:gray; */
     font-family: 'CENT-BOLD';
 }
 main span {
